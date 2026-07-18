@@ -15,11 +15,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://pupvax.com"),
   ...(GSC_TOKEN ? { verification: { google: GSC_TOKEN } } : {}),
   title: {
-    default: "PupVax - Dog Vaccine Schedule Tracker",
+    default: "Dog Deworming & Puppy Vaccine Schedule 2026 | PupVax",
     template: "%s | 2026 Dog Vaccine Tracker",
   },
   description:
-    "Free 2026 dog vaccine tracker. Track your dog's shots, deworming & vet visits. Personalized schedules by breed, age & size. Never miss a booster.",
+    "Free 2026 dog deworming schedule and puppy vaccine tracker. See DHPP, rabies, worming and booster timelines by age, breed and size. No sign-up.",
   keywords: [
     "2026 dog vaccine schedule",
     "puppy vaccine schedule 2026",
@@ -32,9 +32,9 @@ export const metadata: Metadata = {
     "dog titer test",
   ],
   openGraph: {
-    title: "PupVax - Dog Vaccine Schedule Tracker",
+    title: "Dog Deworming & Puppy Vaccine Schedule 2026 | PupVax",
     description:
-      "Free 2026 dog vaccine tracker. Track your dog's shots, deworming & vet visits. Personalized schedules by breed, age & size. Never miss a booster.",
+      "Free 2026 dog deworming schedule and puppy vaccine tracker. See DHPP, rabies, worming and booster timelines by age, breed and size. No sign-up.",
     url: "https://pupvax.com",
     siteName: "PupVax",
     images: [{ url: "/og.png", width: 1200, height: 630 }],
