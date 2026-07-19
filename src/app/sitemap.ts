@@ -14,6 +14,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [
     { path: "", priority: 1 },
     { path: "/dog-vaccines", priority: 0.85 },
+    { path: "/puppy-vaccine-schedule-by-age", priority: 0.85 },
+    { path: "/puppy-deworming-schedule", priority: 0.8 },
     { path: "/breeds", priority: 0.8 },
     { path: "/blog", priority: 0.7 },
     { path: "/vs", priority: 0.6 },
