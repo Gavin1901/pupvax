@@ -146,6 +146,12 @@ export default function DogVaccines() {
         <section className="mt-10">
           <h2 className="text-lg font-bold text-stone-900">In-depth 2026 vaccine guides</h2>
           <div className="mt-3 grid gap-3 sm:grid-cols-2">
+            <Link href="/puppy-vaccine-schedule-by-age/" className="rounded-xl border border-amber-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-amber-400 hover:text-amber-700">
+              Puppy vaccine schedule by age
+            </Link>
+            <Link href="/puppy-deworming-schedule/" className="rounded-xl border border-amber-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-amber-400 hover:text-amber-700">
+              Puppy deworming schedule
+            </Link>
             {TOPICS.map((t) => (
               <Link key={t.slug} href={`/${t.slug}`} className="rounded-xl border border-amber-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-amber-400 hover:text-amber-700">
                 {t.title}
