@@ -3,7 +3,7 @@ import Link from "next/link";
 import { competitors } from "./_data";
 
 export const metadata: Metadata = {
-  title: "Free vs Paid Alternatives — PupVax",
+  title: "Free vs Paid Alternatives",
   description: "Compare PupVax against paid alternatives. See what you get for free vs what competitors charge for.",
   alternates: { canonical: "https://pupvax.com/vs/" },
 };

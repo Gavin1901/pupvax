@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import SiteShell from "@/components/SiteShell";
 
 export const metadata: Metadata = {
-  title: "Terms of Use (2026) — PupVax",
+  title: "Terms of Use (2026)",
   description: "PupVax 2026 terms of use. Vaccine schedules are generalized estimates for educational purposes only. Not veterinary advice.",
   alternates: { canonical: "https://pupvax.com/terms" },
 };

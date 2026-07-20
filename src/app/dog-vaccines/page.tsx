@@ -4,7 +4,7 @@ import SiteShell from "@/components/SiteShell";
 import { TOPICS, PUPPY_SCHEDULE, ADULT_BOOSTERS, PREVENTIVES, VET_DISCLAIMER } from "@/lib/vaccine";
 
 export const metadata: Metadata = {
-  title: "2026 Dog Vaccines Explained — Core, Non-Core and the Full Schedule | PupVax",
+  title: "2026 Dog Vaccines Explained: Core, Non-Core and the Full Schedule",
   description: "Complete 2026 overview of dog vaccines: core (DHPP, rabies) vs non-core (Bordetella, lepto, Lyme), puppy series, adult boosters, deworming and heartworm",
   alternates: { canonical: "https://pupvax.com/dog-vaccines" },
 };

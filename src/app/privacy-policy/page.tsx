@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import SiteShell from "@/components/SiteShell";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy (2026) — PupVax",
+  title: "Privacy Policy (2026)",
   description: "PupVax 2026 privacy policy. Your dog profiles are stored only in your own browser. We use Google Analytics and Google AdSense.",
   alternates: { canonical: "https://pupvax.com/privacy-policy" },
 };

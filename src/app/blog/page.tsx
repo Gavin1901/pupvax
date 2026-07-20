@@ -3,7 +3,7 @@ import Link from "next/link";
 import { posts } from "./posts";
 
 export const metadata: Metadata = {
-  title: "Blog — Guides & Tutorials | PupVax",
+  title: "Blog: Guides and Tutorials",
   description: "Guides, tutorials and practical tips from PupVax.",
   alternates: { canonical: "https://pupvax.com/blog/" },
 };

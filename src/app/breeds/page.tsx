@@ -4,7 +4,7 @@ import SiteShell from "@/components/SiteShell";
 import { BREEDS, VET_DISCLAIMER } from "@/lib/vaccine";
 
 export const metadata: Metadata = {
-  title: "2026 Dog Vaccine Schedules by Breed — 20 Popular Breeds | PupVax",
+  title: "2026 Dog Vaccine Schedules by Breed: 20 Popular Breeds",
   description: "Breed-specific 2026 vaccine schedules, health risks, age-stage maps and dosage guidance for 20 popular dog breeds. From Labradors to Chihuahuas.",
   alternates: { canonical: "https://pupvax.com/breeds" },
 };

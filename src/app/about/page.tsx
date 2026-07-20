@@ -2,7 +2,7 @@
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About PupVax (2026) — dog vaccine tracker",
+  title: "About PupVax (2026)",
   description: "2026 dog vaccine tracker. Track vaccinations, get reminders, breed-specific health needs. Free for all dog owners.",
   alternates: { canonical: "https://pupvax.com/about/" },
 };

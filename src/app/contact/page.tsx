@@ -2,7 +2,7 @@
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Contact PupVax (2026) — Get in Touch",
+  title: "Contact PupVax (2026)",
   description: "Contact PupVax with questions, feedback, bug reports, or collaboration inquiries.",
   alternates: { canonical: "https://pupvax.com/contact/" },
 };
